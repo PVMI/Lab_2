@@ -28,5 +28,4 @@
         android:text="@string/send_message"
         app:layout_constraintBaseline_toBaselineOf="@+id/text_message"
         app:layout_constraintStart_toEndOf="@+id/text_message" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
